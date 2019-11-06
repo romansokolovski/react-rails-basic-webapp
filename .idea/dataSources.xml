@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Rails rails_react_recipe: production" uuid="1881ec3a-4eed-4f70-ba1c-8a0dc628868d">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/rails_react_recipe_production</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails rails_react_recipe: test" uuid="2018e51c-6ffe-4410-9c12-ba57a986d38c">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/rails_react_recipe_test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails rails_react_recipe: development" uuid="284c8351-b7f6-41c2-8c08-436424034533">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/rails_react_recipe_development</jdbc-url>
+    </data-source>
+  </component>
+</project>
